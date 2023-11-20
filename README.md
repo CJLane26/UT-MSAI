@@ -3,7 +3,7 @@ Most Recent Syllabi for Courses in the Masters of Artificial Intelligence from t
 
 The files are titled with their UT Austin course designator, course name, and term of course.
 
-The least recent published syllabi were from Spring 2022. Some courses have changed their designator, but the professors are identical and course content is likely the same.
+The least recent published syllabi were from Spring 2022. Some courses have changed their designator, but the professors are identical and course content is likely the same. Was unable to find the syllabi for a few listed courses.
 
 All syllabi pulled from UT's open source site: https://utdirect.utexas.edu/apps/student/coursedocs/nlogon/
 
